@@ -7,7 +7,8 @@
 
 <div align="center" size='20px'>
  <h3>
- An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ I have a strong background in Java programming and related technologies such as Spring, Hibernate and MySQL. I also have experience working with web development technologies such as HTML, CSS, and React.
+
  </h3>
 </div>
 
