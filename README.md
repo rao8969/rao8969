@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center" text-decoration="none"><a href="https://portfolio-main-iriep2ony-anushaanu333" target="_blank" rel="noopener noreferrer" >
-    Visit my website
+    Visit my Resume
 </a></h3>
 
 <!-- - 🎯 Full Stack Web Developer -->
