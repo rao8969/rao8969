@@ -12,7 +12,7 @@
  </h3>
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://portfolio-main-iriep2ony-anushaanu333" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://www.canva.com/design/DAFhFi2U3ag/3bDNeMO5CMzkkgro7zQ4PA/view?utm_content=DAFhFi2U3ag&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" rel="noopener noreferrer" >
     Visit my Resume
 </a></h3>
 
